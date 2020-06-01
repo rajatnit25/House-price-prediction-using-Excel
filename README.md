@@ -12,4 +12,5 @@ Deliverables:
 •	Mention all the variable which are highly correlated 
 
 •	Build a linear regression model on the data of year 2016. Predict the price for year 2016 using this regression model, plot the regressed values against the actual values to understand the difference
+
 Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
